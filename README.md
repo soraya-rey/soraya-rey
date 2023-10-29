@@ -1,16 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            background-color: #006400; /* Dark Green */
-            color: white; /* Text color on the dark background */
-        }
-    </style>
-</head>
-<body>
+![Image 1](images/1.png)
+![Image 2](images/2.png)
+![Image 3](images/3.png)
 
-<!-- Your profile content here -->
+![Image 4](images/4.png)
+![Image 5](images/5.png)
+![Image 6](images/6.png)
 
-</body>
-</html>
+![Image 7](images/7.png)
+![Image 8](images/8.png)
+![Image 9](images/9.png)
